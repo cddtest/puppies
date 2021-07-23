@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.panasonic.cdd.softapi_androidapplinktest",
+    "sha256_cert_fingerprints":
+    ["CB:F3:39:0B:FD:36:CF:E7:AA:F7:41:DE:BE:E4:D7:1B:14:9A:62:96:A2:FB:57:5C:1F:A4:93:99:5D:6E:C8:4C"]
+  }
+}]
